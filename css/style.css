@@ -1,0 +1,49 @@
+@import url('https://fonts.googleapis.com/css2?family=Aboreto&family=Josefin+Sans:wght@400;500&family=Libre+Baskerville:ital,wght@0,400;0,700;1,400&family=Ubuntu:ital,wght@0,300;0,400;0,500;1,300;1,400;1,500&display=swap');
+/*
+body{
+	
+padding:100px;
+ display:flex;
+    
+ background-color:; 
+	background-image: url("../image/hero-img.png");
+	background-repeat:no-repeat;
+	background-position:right;
+	background-size:500px 300px;
+	margin:50px;
+
+	 background-origin:content box; 
+} */
+
+body{
+
+display:flex;
+margin-left:140px;
+margin-top:140px;
+background-color:#302893d4;
+font-family: 'Aboreto', cursive;
+font-family: 'Josefin Sans', sans-serif;
+font-family: 'Libre Baskerville', serif;
+font-family: 'Ubuntu', sans-serif;
+
+}
+
+h1.hello {
+color:white;
+text-transform: capitalize;
+
+}
+.image{
+	
+ margin-left:80px;
+}
+button{
+	border-radius:4px;
+	width:auto;
+background-color:#0c87d8;
+color:white;
+}
+
+/*div{
+display:flex;
+}*/
